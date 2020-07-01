@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <classRoom>
+    <classId>100000001</classId>
+    <type>0</type>
+    <outPeoples>
+      <outPeople>
+        <studentId>320821198405281530</studentId>
+        <studentName>孙海波</studentName>
+        <effectiveStart>20200615</effectiveStart>
+        <effectiveEnd>20200912</effectiveEnd>
+      </outPeople>
+    </outPeoples>
+  </classRoom>
+  <classRoom>
+    <classId>100000018</classId>
+    <type>1</type>
+    <outPeoples />
+  </classRoom>
+</list>
+
